@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\Debug\lab3microp.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab3microp.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab3microp.map</FILE>
+  <FILE>lab3microp.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>1</LINE></main>
+  <nine><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>16</LINE></nine>
+  <L1><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>7</LINE></L1>
+  <eight><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>23</LINE></eight>
+  <L2><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>8</LINE></L2>
+  <seven><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>30</LINE></seven>
+  <L3><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>9</LINE></L3>
+  <six><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>37</LINE></six>
+  <L4><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>10</LINE></L4>
+  <five><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>44</LINE></five>
+  <L5><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>11</LINE></L5>
+  <four><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>51</LINE></four>
+  <L6><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>12</LINE></L6>
+  <three><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>58</LINE></three>
+  <L7><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>13</LINE></L7>
+  <two><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>65</LINE></two>
+  <L8><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>14</LINE></L8>
+  <one><FILE>C:\Users\ACER\Documents\Atmel Studio\7.0\lab3microp\lab3microp\main.asm</FILE><LINE>72</LINE></one>
+ </LABELS>
+</ASSEMBLER_INFO>
